@@ -66,20 +66,5 @@ client.on('message', message => {
 	}
 });
 
-// client.on('message', msg => {
-// 	if (msg.content === '!guildid') {
-// 		let guildID = guild.id.id;
-// 		console.log(`Meow, Got ${guildID}`);
-// 	}
-// });
-
-// client.on('message', msg => {
-// 	if (msg.content === '!userroles') {
-// 		let roleID = '799120101122244649';
-// 		let membersWithRole = message.guild.roles.fetch(roleID).members;
-// 		console.log(`Got ${membersWithRole}.`);
-// 	}
-// });
-
 // login to Discord with natbot's token
 client.login(token);
