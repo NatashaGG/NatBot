@@ -1,0 +1,25 @@
+{
+  "name": "NatBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "natbot.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "eslint": "^7.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatashaGG/NatBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatashaGG/NatBot/issues"
+  },
+  "homepage": "https://github.com/NatashaGG/NatBot#readme"
+}
